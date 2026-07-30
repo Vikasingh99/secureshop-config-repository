@@ -12,5 +12,5 @@ spring:
       maximum-pool-size: 10
 
 app:
-  service-name: Identity Service
+  service-name: Catalog Service
   message: Catalog configuration loaded from GitHub
