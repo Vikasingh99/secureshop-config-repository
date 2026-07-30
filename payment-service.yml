@@ -10,7 +10,11 @@ spring:
     hikari:
       minimum-idle: 2
       maximum-pool-size: 10
-
+      
+services:
+  order:
+    base-url: http://localhost:8086
+    
 app:
   service-name: Payment service
   message: payment configuration loaded from GitHub
