@@ -12,5 +12,5 @@ spring:
       maximum-pool-size: 10
 
 app:
-  service-name: payment service
+  service-name: Payment service
   message: payment configuration loaded from GitHub
