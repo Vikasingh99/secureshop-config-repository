@@ -13,4 +13,4 @@ spring:
 
 app:
   service-name: Identity Service
-  message: order configuration loaded from GitHub
+  message: Order configuration loaded from GitHub
