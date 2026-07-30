@@ -13,4 +13,4 @@ spring:
 
 app:
   service-name: Identity Service
-  message: Identity configuration loaded from GitHub
+  message: Catalog configuration loaded from GitHub
