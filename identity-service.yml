@@ -1,5 +1,5 @@
 server:
-  port: 0
+  port: 0 # It will take random port which is available if we put port: 0.
 
 spring:
   datasource:
